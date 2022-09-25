@@ -48,6 +48,9 @@ Fig 2: Setup for client (output).
 ![image](https://github.com/vprerana/BitcoinGenerator/blob/7151affd9d1af98c0bbb6558ff06ec91022cf199/4ZeroesConcurrentRunning.png)
 Fig 3: Running the program to mine coinds for 4 nodes.
 
+![image](https://github.com/vprerana/BitcoinGenerator/blob/ccacf0cd455935b2522726eb7232439517b74603/SpawingOnClient.jpg)
+Fig 4: Spawing the nodes on the client.
+
 Result for running the program on two complete different systems can be found in section 4 (finding the largest coin) where the local server system and a completely different client system each find the largest coin.
 
 
