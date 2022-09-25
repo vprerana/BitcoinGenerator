@@ -1,4 +1,4 @@
-#Project 1 - Bitcoin Generator (DOSP Project)
+# Project 1 - Bitcoin Generator (DOSP Project)
 
 **Group Members:**
   1. Prerana Venugopal, UFID=1827-4557
