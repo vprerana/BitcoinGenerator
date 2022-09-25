@@ -39,16 +39,20 @@ Each child actor is designed to continue hashing/mining until the server finds a
 
 **2. Result of Program for Input 4:**
 
-![image](https://github.com/vprerana/BitcoinGenerator/blob/7151affd9d1af98c0bbb6558ff06ec91022cf199/SetupServer.png)
+![SetupServer](https://user-images.githubusercontent.com/37626340/192125728-5e3cdfd7-2c30-4403-8244-c190bf7c084a.png)
+
 Fig 1: Setup for Server
 
-![image](https://github.com/vprerana/BitcoinGenerator/blob/7151affd9d1af98c0bbb6558ff06ec91022cf199/ClientForFourZeroes.png)
+![ClientForFourZeroes](https://user-images.githubusercontent.com/37626340/192125732-07656b00-c745-4f67-9300-184f818e8ef4.png)
+
 Fig 2: Setup for client (output).
 
-![image](https://github.com/vprerana/BitcoinGenerator/blob/7151affd9d1af98c0bbb6558ff06ec91022cf199/4ZeroesConcurrentRunning.png)
+![4ZeroesConcurrentRunning](https://user-images.githubusercontent.com/37626340/192125741-8f2c7f48-b10f-4fb8-87b8-fb6d96f831d6.png)
+
 Fig 3: Running the program to mine coinds for 4 nodes.
 
-![image](https://github.com/vprerana/BitcoinGenerator/blob/ccacf0cd455935b2522726eb7232439517b74603/SpawingOnClient.jpg)
+![SpawingOnClient](https://user-images.githubusercontent.com/37626340/192125742-3c083352-7120-4176-9ef6-2daf51246c5f.jpg)
+
 Fig 4: Spawing the nodes on the client.
 
 Result for running the program on two complete different systems can be found in section 4 (finding the largest coin) where the local server system and a completely different client system each find the largest coin.
@@ -56,8 +60,9 @@ Result for running the program on two complete different systems can be found in
 
 **3. Running Time:**
 
-![image](https://github.com/vprerana/BitcoinGenerator/blob/7151affd9d1af98c0bbb6558ff06ec91022cf199/ClockTime_4Zeroes.png)
-Fig 3: Runtimes when run on four nodes.
+![ClockTime_4Zeroes](https://user-images.githubusercontent.com/37626340/192125746-e82072f1-c5b3-45b0-a0a0-444c482a5a14.png)
+
+Fig 5: Runtimes when run on four nodes.
   
   Total Clock time  = 15532.032
   
@@ -70,8 +75,9 @@ Fig 3: Runtimes when run on four nodes.
   
   We found the largest coin to have seven zeros. The program was run for 1 hour to find 8 zeros, but no coins were found and the program was stopped.
 
-![image](https://github.com/vprerana/BitcoinGenerator/blob/7151affd9d1af98c0bbb6558ff06ec91022cf199/MaxNumberOfZeroes.png)
-Fig 4: Coin starting with maximum number of  zeros (7).
+![MaxNumberOfZeroes](https://user-images.githubusercontent.com/37626340/192125773-546f355e-61b2-4b21-9e94-1440c9fd851e.png)
+
+Fig 6: Coin starting with maximum number of  zeros (7).
 
 **5. Largest number of working machines**
   
